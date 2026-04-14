@@ -1,106 +1,83 @@
-# 🐋 Arquitectura Leviatán: Motor Termodinámico de Factorización
+# Leviatán-M: Termodinámica de Cribas y Cristalización Asintótica de Primos
 
-[](https://www.google.com/search?q=https://opensource.org/licenses/MIT)
-[](https://www.google.com/search?q=https://isocpp.org/)
-[](https://www.google.com/search?q=https://www.python.org/)
-[](https://www.google.com/search?q=)
+[](https://opensource.org/licenses/MIT)
+[](https://arxiv.org/)
+[](https://github.com/)
 
-**Leviatán** es un motor híbrido (C++/Python) de factorización de enteros masivos y triaje de primalidad. Basado en los principios del Caos Cuántico Aritmético y la fase No Ergódica Extendida (NEE), Leviatán no aplica fuerza bruta ciega, sino que explota la topología del vacío aritmético reduciendo la entropía del espacio de búsqueda mediante restricciones modulares y compresión fractal.
+**Leviatán-M** es un proyecto de investigación multidisciplinar que unifica la **Teoría Analítica de Números**, la **Mecánica Estadística de Sistemas Desordenados** y el **Criptoanálisis Post-Cuántico**. [cite_start]Esta arquitectura propone una visión geométrica del vacío aritmético, demostrando que la distribución de los números primos masivos —específicamente los exponentes de Mersenne— obedece a leyes de cristalización asintótica en pozos de potencial cuántico[cite: 1, 5].
 
-## 📖 Visión General
+-----
 
-Los motores de factorización convencionales asumen el espacio de búsqueda como un continuo homogéneo de máxima entropía. Leviatán aplica un diseño termo-computacional anclado en la memoria Caché L1 que aprovecha la "fricción quiral" del espectro de los números primos, operando exclusivamente en los canales permitidos por simetrías modulares.
+## 🧠 Fundamentación Teórica
 
-El motor consta de tres núcleos principales:
+[cite_start]El motor de este proyecto se basa en la correspondencia entre la función Zeta de Dedekind y el **Hamiltoniano del Gas de Primones**[cite: 135]. [cite_start]Establecemos que el vacío aritmético no es un medio estocástico homogéneo, sino un sistema sujeto a una "fricción quiral" que impone una parsimonia topológica ineludible[cite: 11, 74].
 
-  * **Leviatán-Base:** Operador general sobre $\mathbb{Z}/6\mathbb{Z}$. Implementa el método de Fermat modificado con saltos espaciales $x \mathrel{+}= 3$ y artillería ECM (Método de Curva Elíptica) guiada por progresiones asíncronas de Airy.
-  * **Leviatán-M (Cazador de Mersenne):** Subsistema balístico de triaje topológico para números de Mersenne ($M_p$). Capaz de descartar candidatos en el rango $p > 137,000,000$ (más de 41 millones de dígitos) en fracciones de segundo evitando el Test de Lucas-Lehmer para compuestos tempranos.
-  * **Leviatán-C (Complejo/Ciclotómico):** Extensión topológica para factorizar ideales algebraicos sobre el anillo de enteros de Gauss $\mathbb{Z}[i]$, empleando el primorial atractor $\langle 3(1+i) \rangle$ y curvas elípticas con Multiplicación Compleja (CM).
+### Conceptos Clave:
 
-## 🔬 Fundamentos Físico-Matemáticos
+  * [cite_start]**Atractor de Chandrasekhar Informativo**: Identificamos el ideal $\Pi_2 = \langle 3(1+i) \rangle$ en el anillo de Gauss $\mathbb{Z}[i]$ como el punto de máxima eficiencia termodinámica para el filtrado de información[cite: 4, 53].
+  * [cite_start]**Constante de Catalan ($G$)**: Derivamos analíticamente la renormalización del acoplamiento cuántico $\epsilon_c^{(K)} = \pi\sqrt{2G}$, probando que el plano de Gauss es "topológicamente más resbaladizo" que la recta real[cite: 3, 71].
+  * [cite_start]**Salto de Resonancia ($\Lambda \approx 0.350$)**: Proyectamos las zonas calientes de los próximos primos de Mersenne basándonos en la convergencia armónica de la entropía espectral[cite: 77, 80].
 
-La arquitectura codifica directamente en hardware tres constantes fundamentales derivadas de la termodinámica del vacío aritmético:
+-----
 
-1.  **Confinamiento Fractal ($D_2 \approx 0.24338$):** La entropía del criptograma no escala linealmente con sus bits, sino con la dimensión fractal del soporte cuántico, ahorrando hasta un 75% del volumen de búsqueda. En dominios ciclotómicos, se recalibra mediante la Constante de Catalan $G$.
-2.  **Acoplamiento Crítico ($\epsilon_c = \pi\sqrt{2}$):** Utilizado para balancear el número de curvas elípticas instanciadas por núcleo sin causar colapso térmico o dispersión estocástica.
-3.  **Límite de Chandrasekhar Informativo:** El sistema respeta los primoriales de máxima eficiencia para evitar que la explosión combinatoria de canales ahogue la memoria L1.
+## 🛰️ Arquitectura del Software
 
-## ⚙️ Arquitectura del Sistema
+El repositorio se divide en dos módulos tácticos de alta precisión:
 
-  * **Vanguardia (C++):** Módulos nativos paralelizables orientados a operaciones en memoria L1. Manejo de matrices de bits (bitsets) y aritmética de enteros empaquetados de 64/128 bits.
-  * **Orquestador Asíncrono (Python):** Gestiona la logística termodinámica, el pre-filtro de los canales modulares $\mathcal{C}_1$ y $\mathcal{C}_5$, y calcula la entropía efectiva de las oleadas ECM.
+### 1\. Motor Leviatán-C (Topología Ciclotómica)
 
-## 🚀 Instalación y Compilación
+[cite_start]Implementación en **C++ nativo** y **Python** optimizada para aritmética de ideales en $\mathbb{Z}[i]$[cite: 94].
+
+  * [cite_start]**Vanguardia Z/6Z**: Criba de alta densidad que aniquila el 55.55% del ruido topológico mediante saltos quirales vectorizados[cite: 102, 108].
+  * [cite_start]**Fermat Complejo**: Ruptura de simetría iterativa para la fractura de ideales masivos evitandocuellos de botella en la memoria Caché L1[cite: 101, 103].
+  * [cite_start]**Telemetría de Shannon**: Notebook que demuestra visualmente el colapso térmico al superar el Límite de Chandrasekhar[cite: 58].
+
+### 2\. Mersenne Sniper (Radar de Pozos de Potencial)
+
+Sistema de asedio dirigido para la localización de colosos $M_p$.
+
+  * [cite_start]**Espectroscopía de Resonancia**: Algoritmo que clasifica candidatos por su desviación espectral $\Delta E$ respecto al atractor $\Lambda$[cite: 76, 83].
+  * [cite_start]**Evidencia del Colapso de Varianza**: Validación empírica histórica que muestra el desplome de la dispersión de error de $0.0558$ a $0.0121$ en la era macroscópica (GIMPS)[cite: 20, 82].
+
+-----
+
+## 🛡️ Impacto en Criptografía Post-Cuántica (PQC)
+
+[cite_start]Este proyecto expone vulnerabilidades críticas en esquemas basados en retículos como **LWE (Learning With Errors)** y **NTRU**[cite: 120]. [cite_start]Al demostrar que el "ruido" inyectado en anillos ciclotómicos es una señal determinista multifractal confinada en una fase **No Ergódica Extendida (NEE)**, la Arquitectura Leviatán permite colapsar la dimensionalidad de la celda de Voronoi, reduciendo exponencialmente la seguridad de los estándares actuales[cite: 13, 127, 128].
+
+-----
+
+## 🚀 Instalación y Uso
 
 ### Requisitos
 
-  * Compilador C++ compatible con C++17 (GCC 9+ o Clang 10+).
-  * Python 3.10 o superior.
-  * Librerías Python: `numpy`, `scipy` (para herramientas de diagnóstico y notebooks).
+  * `g++` con soporte para C++17 y OpenMP.
+  * Biblioteca `GMP` (GNU Multiple Precision Arithmetic Library).
+  * Python 3.8+ con `gmpy2`, `numpy` y `matplotlib`.
 
-### Proceso de compilación
-
-El motor C++ requiere optimizaciones nativas de arquitectura para maximizar el uso de registros y memoria Caché:
+### Compilación del Núcleo Balístico
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/TU_USUARIO/Leviatan.git
-cd Leviatan
-
-# Compilar los binarios de la Vanguardia C++
-g++ -O3 -march=native -mtune=native -std=c++17 src/cpp/leviatan_core.cpp -o bin/leviatan_core
-g++ -O3 -march=native -mtune=native -std=c++17 src/cpp/mersenne_triage.cpp -o bin/mersenne_triage
+g++ -O3 -march=native -fopenmp -shared -fPIC -o leviatan_core.so leviatan_core.cpp -lgmp
 ```
 
-## 💻 Uso Básico
+### Ejecución del Radar
 
-El orquestador en Python se encarga de invocar los binarios y administrar los hilos de ejecución.
-
-**1. Factorización de Semiprimos (Leviatán-Base):**
-
-```bash
-python main.py factorize --target 114157849 --mode base
-```
-
-**2. Triaje de Mersenne (Leviatán-M):**
-
-```bash
-python main.py mersenne_triage --range_start 137000000 --k_depth 500000000
-```
-
-**3. Factorización en Entornos Ciclotómicos (Leviatán-C):**
-
-```bash
-python main.py factorize_complex --norm 100000000000000000000 --ring gauss
-```
-
-## 📁 Estructura del Proyecto
-
-```text
-Leviatan/
-├── bin/                    # Binarios compilados
-├── src/
-│   ├── cpp/                # Núcleos de Vanguardia (ALU y L1D)
-│   │   ├── leviatan_core.cpp
-│   │   ├── mersenne_triage.cpp
-│   │   └── gauss_ideal_alu.cpp
-│   └── python/             # Orquestador Asíncrono y Calibración Fractal
-│       ├── orquestador.py
-│       ├── ecm_airy.py
-│       └── diagnostico.py
-├── notebooks/              # Laboratorios Jupyter (Validación de Constantes)
-│   ├── Leviatan_Ciclotomico_Lab.ipynb
-│   └── Demostracion_Fractal_D2.ipynb
-├── main.py                 # Interfaz de Línea de Comandos (CLI)
-├── LICENSE
-└── README.md
-```
-
-## 📚 Referencias Académicas
-
-La base matemática de este código se encuentra detallada en los siguientes manuscritos:
-
-  * Peinador Sala, J. I. (2026). *Explicit Hermitian Hamiltonian for the Riemann Zeros from Modular Arithmetic Quantum Chaos and Multifractality from $\mathbb{Z}/6\mathbb{Z}$*. (Sometido a APS Open Science, JR10006).
-  * Peinador Sala, J. I. *Termodinámica de Cribas en Extensiones Ciclotómicas: Funciones L y la Constante de Catalan*. (Manuscrito).
+Consulte el archivo `Mersenne_Sniper.ipynb` para iniciar un asedio dinámico sobre los pozos de potencial proyectados para $M_{52}$ y superiores.
 
 -----
+
+## 📜 Publicación Científica
+
+El cuerpo teórico completo de esta investigación se encuentra detallado en el manuscrito:
+
+> **Peinador Sala, J. I. (2025).** *Termodinámica de Cribas en Extensiones Ciclotómicas: Funciones $L$, la Constante de Catalan y Cristalización Asintótica.*
+
+-----
+
+## ✉️ Contacto
+
+**José Ignacio Peinador Sala** - [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)
+
+-----
+
