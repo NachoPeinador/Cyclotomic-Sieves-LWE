@@ -88,15 +88,15 @@ Si Ring-LWE fuera verdaderamente seguro bajo asunciones de máxima entropía, el
 
 ### 3\. Contracción Asintótica en la Enumeración SVP
 
-Debido a que el ruido está confinado fractalmente ($D_2 \approx 0.2329 < 1$), el volumen de la hiper-esfera que un atacante debe buscar no crece isotrópicamente con la dimensión $d$.
+Debido a que el ruido está confinado fractalmente $D_2 \approx 0.2329 < 1$, el volumen de la hiper-esfera que un atacante debe buscar no crece isotrópicamente con la dimensión $d$.
 
-\<p align="center"\>
-\<img src="Images/Contraccion\_asintonica.png" alt="SVP Tree Contraction" width="80%"\>
+<p align="center">
+<img src="Images/Contraccion_asintonica.png" alt="SVP Tree Contraction" width="80%">
 <br>
-\<em\>\<strong\>Figura 3.\</strong\> Colapso sub-exponencial del árbol de enumeración del Problema del Vector Más Corto (SVP). Evadir el vacío aritmético de forma determinista recorta drásticamente la explosión combinatoria exponencial.\</em\>
-\</p\>
+<em>\<strong>Figura 3.<strong> Colapso sub-exponencial del árbol de enumeración del Problema del Vector Más Corto (SVP). Evadir el vacío aritmético de forma determinista recorta drásticamente la explosión combinatoria exponencial.\<em>
+<p>
 
------
+----
 
 ## 📊 Validación Experimental y Métricas
 
