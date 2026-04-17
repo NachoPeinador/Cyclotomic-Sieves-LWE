@@ -116,17 +116,15 @@ Para garantizar la transparencia y la reproducibilidad absoluta, todo el marco e
 
 ### 1\. Evaluación Asintótica: La Criba Ciclotómica Modulada (CCM)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/CRIBA_CICLOTÓMICA_MODULADA_(CCM)_EN_Z[i].ipynb)
-
 Este cuaderno implementa el motor algebraico central definido en la **Sección 6** del manuscrito.
 
   * Compila módulos C++ (OpenMP) altamente optimizados para el operador de proyección $\Xi_K$.
   * Ejecuta el método de Fermat 2D Generalizado, reduciendo drásticamente la dimensionalidad al avanzar sobre el retículo $\mathbb{Z}[i]$ evitando clases inertes.
   * Calibra las cotas del Método de Curva Elíptica (ECM) estrictamente mediante la Expansión Geométrica de Catalan, estabilizando la varianza para criptogramas de 130 dígitos.
 
-### 2\. Evaluador Espectral de Primos de Mersenne
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/CRIBA_CICLOTÓMICA_MODULADA_(CCM)_EN_Z[i].ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/Evaluador_Espectral_de_Mersenne.ipynb)
+### 2\. Evaluador Espectral de Primos de Mersenne
 
 Este cuaderno valida la **Sección 5**, demostrando la estabilización asintótica de secuencias primales extremas.
 
@@ -134,9 +132,9 @@ Este cuaderno valida la **Sección 5**, demostrando la estabilización asintóti
   * **Métrica de Wasserstein ($W_1$):** Ejecuta la prueba matemática de Transporte Óptimo, destronando a la clásica Conjetura de Wagstaff (1983) al demostrar una distancia estrictamente menor al atractor $\Lambda \approx 0.350$.
   * **Proyección Predictiva:** Utiliza el francotirador de Euler-Lagrange en $\mathbb{Z}/6\mathbb{Z}$ para proyectar determinísticamente los pozos de potencial para $p_{52}$ y $p_{53}$.
 
-### 3\. Simulaciones Topológicas y Contracción SVP
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/Evaluador_Espectral_de_Mersenne.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Umbral_de_Parsimonia_y_Confinamiento_en_Retículos_LWE.ipynb)
+### 3\. Simulaciones Topológicas y Contracción SVP
 
 Pruebas visuales y geométricas que respaldan las **Secciones 3 y 8**.
 
@@ -144,15 +142,17 @@ Pruebas visuales y geométricas que respaldan las **Secciones 3 y 8**.
   * Simula la contracción espacial del árbol de enumeración SVP frente a modelos isotrópicos (de máxima entropía).
   * Genera el *Tapiz de Gauss*, un renderizado matemático de alta definición del vacío aritmético fractal.
 
-### 4\. Violación de ETH y Colapso Entrópico en Ring-LWE
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Umbral_de_Parsimonia_y_Confinamiento_en_Retículos_LWE.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb)
+### 4\. Violación de ETH y Colapso Entrópico en Ring-LWE
 
 La autopsia termodinámica definitiva de la criptografía post-cuántica.
 
   * Construye el Hamiltoniano estocástico local para Ring-LWE y aplica la proyección Lindbladiana del atractor $\Pi_2$.
   * Extrae la Razón de Participación Inversa (IPR) para confirmar la dimensión fraccionaria ($0.7827 \to 0.2329$).
   * Calcula la entropía de entrelazamiento local de Von Neumann, probando la estricta violación matemática de la Hipótesis de Termalización de los Autoestados (ETH) y situando el sistema en la clase de complejidad *UniqueQMA*.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb)
 
 -----
 
