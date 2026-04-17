@@ -116,7 +116,7 @@ Para garantizar la transparencia y la reproducibilidad absoluta, todo el marco e
 
 ### 1\. Evaluación Asintótica: La Criba Ciclotómica Modulada (CCM)
 
-[![Open In Colab](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/CRIBA_CICLOTÓMICA_MODULADA_(CCM)_EN_Z[i].ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/CRIBA_CICLOTÓMICA_MODULADA_(CCM)_EN_Z[i].ipynb)
 
 Este cuaderno implementa el motor algebraico central definido en la **Sección 6** del manuscrito.
 
@@ -126,7 +126,7 @@ Este cuaderno implementa el motor algebraico central definido en la **Sección 6
 
 ### 2\. Evaluador Espectral de Primos de Mersenne
 
-[![Open In Colab](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/Evaluador_Espectral_de_Mersenne.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/Evaluador_Espectral_de_Mersenne.ipynb)
 
 Este cuaderno valida la **Sección 5**, demostrando la estabilización asintótica de secuencias primales extremas.
 
@@ -136,7 +136,7 @@ Este cuaderno valida la **Sección 5**, demostrando la estabilización asintóti
 
 ### 3\. Simulaciones Topológicas y Contracción SVP
 
-[![Open In Colab](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Umbral_de_Parsimonia_y_Confinamiento_en_Retículos_LWE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Umbral_de_Parsimonia_y_Confinamiento_en_Retículos_LWE.ipynb)
 
 Pruebas visuales y geométricas que respaldan las **Secciones 3 y 8**.
 
@@ -146,7 +146,7 @@ Pruebas visuales y geométricas que respaldan las **Secciones 3 y 8**.
 
 ### 4\. Violación de ETH y Colapso Entrópico en Ring-LWE
 
-[![Open In Colab](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb)
 
 La autopsia termodinámica definitiva de la criptografía post-cuántica.
 
