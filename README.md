@@ -198,7 +198,7 @@ Si este marco topológico, las derivaciones de la fricción de Catalan o el cód
 ## 📁 Estructura del Repositorio
 
 <details>
-<summary><strong>👇 Clic para ver la estructura del repositorio<strong></summary>
+<summary><strong>👇 Clic para ver la estructura del repositorio</strong></summary>
 
 ```text
 .
