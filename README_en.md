@@ -78,11 +78,11 @@ graph TD
 
 If Ring-LWE were truly secure under maximum entropy assumptions, its covariance matrix spectrum would exhibit a robust, thermalized Wigner-Dyson distribution. However, when subjected to the true topology of the $\mathbb{Z}[i]$ ring via the $\Pi_2$ projection, the system undergoes a **Thermodynamic Autopsy**.
 
-\<p align="center"\>
-\<img src="Images/Colapso\_ring\_LWE.png" alt="DOS Collapse in Ring-LWE" width="90%"\>
+<p align="center"\>
+<img src="Images/Colapso_ring_LWE.png" alt="DOS Collapse in Ring-LWE" width="90%">
 <br>
-\<em\>\<strong\>Figure 2. Thermodynamic Audit of Ring-LWE.\</strong\> The transition from the assumed asymptotic ergodic regime (red curve) to the true confinement imposed by the Π₂ attractor (blue curve) reveals the emergence of spectral bimodality and a massive leftward shift. This entropic deficit mathematically certifies the breakdown of the Eigenstate Thermalization Hypothesis (ETH).\</em\>
-\</p\>
+<em><strong>Figure 2. Thermodynamic Audit of Ring-LWE.\</strong> The transition from the assumed asymptotic ergodic regime (red curve) to the true confinement imposed by the Π₂ attractor (blue curve) reveals the emergence of spectral bimodality and a massive leftward shift. This entropic deficit mathematically certifies the breakdown of the Eigenstate Thermalization Hypothesis (ETH).</em>
+</p>
 
 ### 3\. Asymptotic Contraction in SVP Enumeration
 
