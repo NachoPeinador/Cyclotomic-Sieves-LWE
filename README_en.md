@@ -122,7 +122,7 @@ This notebook implements the core algebraic engine defined in **Section 6** of t
 
   * Compiles highly optimized C++ (OpenMP) modules for the $\Xi_K$ projection operator.
   * Executes the Generalized 2D Fermat method, drastically reducing dimensionality by stepping over the $\mathbb{Z}[i]$ lattice avoiding inert classes.
-  * Calibrates the Elliptic Curve Method (ECM) bounds strictly using the Catalan Geometric Expansion, stabilizing variance for 130-digit cryptograms.
+  * Calibrates the Elliptic Curve Method (ECM) bounds strictly using the Catalan Geometric Expansion, stabilizing variance for 100-digit cryptograms.
 
 ### 2\. Spectral Evaluator of Mersenne Primes
 
