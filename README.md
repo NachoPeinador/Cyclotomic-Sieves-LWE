@@ -91,7 +91,7 @@ Debido a que el ruido está confinado fractalmente $D_2 \approx 0.2329 < 1$, el 
 <p align="center">
 <img src="Images/Contraccion_asintonica.png" alt="SVP Tree Contraction" width="80%">
 <br>
-<em>\<strong>Figura 3.<strong> Colapso sub-exponencial del árbol de enumeración del Problema del Vector Más Corto (SVP). Evadir el vacío aritmético de forma determinista recorta drásticamente la explosión combinatoria exponencial.\<em>
+<em><strong>Figura 3.</strong> Colapso sub-exponencial del árbol de enumeración del Problema del Vector Más Corto (SVP). Evadir el vacío aritmético de forma determinista recorta drásticamente la explosión combinatoria exponencial.</em>
 <p>
 
 ---
