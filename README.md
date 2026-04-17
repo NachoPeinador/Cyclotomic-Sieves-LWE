@@ -74,8 +74,6 @@ graph TD
     style L fill:#ff9,stroke:#333,stroke-width:2px
 ````
 
----
-
 ### 2\. El Colapso de la Densidad de Estados (DOS)
 
 Si Ring-LWE fuera verdaderamente seguro bajo asunciones de máxima entropía, el espectro de su matriz de covarianza exhibiría una distribución de Wigner-Dyson robusta y termalizada. Sin embargo, cuando se somete a la verdadera topología del anillo $\mathbb{Z}[i]$ mediante la proyección $\Pi_2$, el sistema sufre una **Autopsia Termodinámica**.
