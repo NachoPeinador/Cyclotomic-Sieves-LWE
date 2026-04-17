@@ -84,7 +84,7 @@ Si Ring-LWE fuera verdaderamente seguro bajo asunciones de máxima entropía, el
 <img src="Images/Colapso_ring_LWE.png" alt="DOS Collapse in Ring-LWE" width="90%"\>
 <br>
 <em><strong>Figura 2. Auditoría Termodinámica de Ring-LWE.<strong> La transición del régimen ergódico asintótico asumido (curva roja) al confinamiento verdadero impuesto por el atractor Π₂ (curva azul) revela la emergencia de bimodalidad espectral y un desplazamiento masivo hacia la izquierda. Este déficit entrópico certifica matemáticamente la ruptura de la Hipótesis de Termalización de los Autoestados (ETH).<em>
-<p\>
+<p>
 
 ### 3\. Contracción Asintótica en la Enumeración SVP
 
@@ -96,7 +96,7 @@ Debido a que el ruido está confinado fractalmente $D_2 \approx 0.2329 < 1$, el 
 <em>\<strong>Figura 3.<strong> Colapso sub-exponencial del árbol de enumeración del Problema del Vector Más Corto (SVP). Evadir el vacío aritmético de forma determinista recorta drásticamente la explosión combinatoria exponencial.\<em>
 <p>
 
-----
+---
 
 ## 📊 Validación Experimental y Métricas
 
