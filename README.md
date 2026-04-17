@@ -78,7 +78,7 @@ graph TD
 
 Si Ring-LWE fuera verdaderamente seguro bajo asunciones de máxima entropía, el espectro de su matriz de covarianza exhibiría una distribución de Wigner-Dyson robusta y termalizada. Sin embargo, cuando se somete a la verdadera topología del anillo $\mathbb{Z}[i]$ mediante la proyección $\Pi_2$, el sistema sufre una **Autopsia Termodinámica**.
 
-<p align="center"\>
+<p align="center">
 <img src="Images/Colapso_ring_LWE.png" alt="DOS Collapse in Ring-LWE" width="90%"\>
 <br>
 <em><strong>Figura 2. Auditoría Termodinámica de Ring-LWE.<strong> La transición del régimen ergódico asintótico asumido (curva roja) al confinamiento verdadero impuesto por el atractor Π₂ (curva azul) revela la emergencia de bimodalidad espectral y un desplazamiento masivo hacia la izquierda. Este déficit entrópico certifica matemáticamente la ruptura de la Hipótesis de Termalización de los Autoestados (ETH).<em>
