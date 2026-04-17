@@ -170,7 +170,7 @@ This repository operates under a **Dual License** model to protect the non-comme
 ## 📝 Citation
 
 <details>
-<summary><strong>👇 Click to view Citation details\</strong></summary>
+<summary><strong>👇 Click to view Citation details</strong></summary>
 
 If this topological framework, the derivations of Catalan's friction, or the codebase assists in your research (especially in lattice cryptanalysis), please cite the corresponding preprint:
 
@@ -197,8 +197,8 @@ If this topological framework, the derivations of Catalan's friction, or the cod
 
 ## 📁 Repository Structure
 
-\<details\>
-\<summary\>\<strong\>👇 Click to view repository structure\</strong\>\</summary\>
+<details>
+<summary><strong>👇 Click to view repository structure</strong></summary>
 
 ```text
 .
@@ -220,7 +220,7 @@ If this topological framework, the derivations of Catalan's friction, or the cod
 └── 📜 LICENSE                                               # License (PolyForm / CC BY-NC-SA)
 ```
 
-\</details\>
+</details>
 
 -----
 
@@ -236,10 +236,8 @@ This project demonstrates that the frontiers of post-quantum cryptography and pr
 
 -----
 
-\<div align="center"\>
+<div align="center">
 
-\<b\>Last Update:\</b\> April 2026 | \<b\>Status:\</b\> Under Peer Review (EMS Press) | Built with ⚛️ & 🐍
+<b>Last Update:<b> April 2026 | <b>Status:<b> Under Peer Review (EMS Press) | Built with ⚛️ & 🐍
 
-\</div\>
-
-```
+</div>
