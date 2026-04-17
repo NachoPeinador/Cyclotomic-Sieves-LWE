@@ -170,7 +170,7 @@ Este repositorio opera bajo un modelo de **Licencia Dual** para proteger la natu
 ## 📝 Citación
 
 <details>
-<summary><strong>👇 Clic para ver los detalles de Citación</strong><summary>
+<summary><strong>👇 Clic para ver los detalles de Citación</strong></summary>
 
 Si este marco topológico, las derivaciones de la fricción de Catalan o el código fuente te asisten en tu investigación (especialmente en criptoanálisis de retículos), por favor cita el preprint correspondiente:
 
@@ -191,7 +191,7 @@ Si este marco topológico, las derivaciones de la fricción de Catalan o el cód
 
 > Peinador Sala, J. I. (2026). *Termodinámica de Cribas en Extensiones Ciclotómicas: Funciones L, la Constante de Catalan y Saturación Espectral Asintótica*. Zenodo. https://www.google.com/url?sa=E\&source=gmail\&q=https://doi.org/10.5281/zenodo.19284512
 
-<details>
+</details>
 
 -----
 
