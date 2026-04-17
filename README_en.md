@@ -88,11 +88,11 @@ If Ring-LWE were truly secure under maximum entropy assumptions, its covariance 
 
 Because the noise is fractally confined ($D_2 \approx 0.2329 < 1$), the volume of the hypersphere that an attacker must search does not grow isotropically with the dimension $d$.
 
-\<p align="center"\>
-\<img src="Images/Contraccion\_asintonica.png" alt="SVP Tree Contraction" width="80%"\>
+<p align="center"\>
+<img src="Images/Contraccion_asintonica.png" alt="SVP Tree Contraction" width="80%"\>
 <br>
-\<em\>\<strong\>Figure 3.\</strong\> Sub-exponential collapse of the Shortest Vector Problem (SVP) enumeration tree. Evading the arithmetic vacuum deterministically trims the exponential combinatorial explosion.\</em\>
-\</p\>
+<em><strong>Figure 3.</strong> Sub-exponential collapse of the Shortest Vector Problem (SVP) enumeration tree. Evading the arithmetic vacuum deterministically trims the exponential combinatorial explosion.</em>
+</p>
 
 -----
 
