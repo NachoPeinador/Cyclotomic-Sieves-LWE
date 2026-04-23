@@ -122,7 +122,7 @@ Este cuaderno implementa el motor algebraico central definido en la **Sección 6
   * Ejecuta el método de Fermat 2D Generalizado, reduciendo drásticamente la dimensionalidad al avanzar sobre el retículo $\mathbb{Z}[i]$ evitando clases inertes.
   * Calibra las cotas del Método de Curva Elíptica (ECM) estrictamente mediante la Expansión Geométrica de Catalan, estabilizando la varianza para criptogramas de 100 dígitos.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/CRIBA_CICLOTOMICA_MODULADA_CCM_EN_Z[i].ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/CRIBA_CICLOTOMICA_MODULADA_CCM_EN_Z[i].ipynb])
 
 ### 2\. Evaluador Espectral de Primos de Mersenne
 
