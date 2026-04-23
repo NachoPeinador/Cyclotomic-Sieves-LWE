@@ -189,7 +189,7 @@ If this topological framework, the derivations of Catalan's friction, or the cod
 
 **APA:**
 
-> Peinador Sala, J. I. (2026). *Spectral Dynamics of Sieves in Cyclotomic Extensions: 𝑳-functions, Catalan's Constant, and Asymptotic Saturation*. Zenodo. https://www.google.com/url?sa=E\&source=gmail\&q=https://doi.org/10.5281/zenodo.19706812
+> Peinador Sala, J. I. (2026). *Spectral Dynamics of Sieves in Cyclotomic Extensions: 𝑳-functions, Catalan's Constant, and Asymptotic Saturation*. Zenodo. https://doi.org/10.5281/zenodo.19706812
 
 </details>
 
