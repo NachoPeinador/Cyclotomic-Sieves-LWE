@@ -179,17 +179,17 @@ If this topological framework, the derivations of Catalan's friction, or the cod
 ```bibtex
 @misc{peinador2026cyclotomicsieves,
   author = {Peinador Sala, José Ignacio},
-  title = {Termodinámica de Cribas en Extensiones Ciclotómicas: Funciones L, la Constante de Catalan y Saturación Espectral Asintótica},
+  title = {Spectral Dynamics of Sieves in Cyclotomic Extensions: 𝑳-functions, Catalan's Constant, and Asymptotic Saturation},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.19284512},
+  doi = {10.5281/zenodo.19706812},
   url = {[https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE](https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE)}
 }
 ```
 
 **APA:**
 
-> Peinador Sala, J. I. (2026). *Termodinámica de Cribas en Extensiones Ciclotómicas: Funciones L, la Constante de Catalan y Saturación Espectral Asintótica*. Zenodo. https://www.google.com/url?sa=E\&source=gmail\&q=https://doi.org/10.5281/zenodo.19284512
+> Peinador Sala, J. I. (2026). *Spectral Dynamics of Sieves in Cyclotomic Extensions: 𝑳-functions, Catalan's Constant, and Asymptotic Saturation*. Zenodo. https://www.google.com/url?sa=E\&source=gmail\&q=https://doi.org/10.5281/zenodo.19706812
 
 </details>
 
