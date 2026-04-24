@@ -238,6 +238,6 @@ This project demonstrates that the frontiers of post-quantum cryptography and pr
 
 <div align="center">
 
-<b>Last Update:<b> April 2026 | <b>Status:<b> Under Peer Review (EMS Press) | Built with ⚛️ & 🐍
+<b>Last Update:<b> April 2026 | <b>Status:<b> Under Peer Review (EMS Press - Ref: 260424-PeinadorSala) | Built with ⚛️ & 🐍
 
 </div>
