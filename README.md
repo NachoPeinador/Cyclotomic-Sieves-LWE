@@ -204,14 +204,14 @@ Si este marco topológico, las derivaciones de la fricción de Catalan o el cód
 ```text
 .
 ├── 📂 Paper/                                                
-│   ├── 📄 RMI_Criba_v2.pdf                                  # El Manuscrito Enviado
-│   └── 📝 RMI_Criba_v2.tex                                  # Código fuente LaTeX
+│   ├── 📄 Dinamica_Espectral_Cribas.pdf                                  # El Manuscrito Enviado
+│   └── 📝 Dinamica_Espectral_Cribas.tex                                  # Código fuente LaTeX
 │
 ├── 📂 Notebooks/                                            # Laboratorio Computacional
-│   ├── 📓 Criba_Ciclotomica_Modulada.ipynb                  # Motor ECM y CCM en C++ OpenMP
-│   ├── 📓 Evaluador_Espectral_de_Mersenne.ipynb             # Métrica W1 y Saturación de Varianza
-│   ├── 📓 Experimentos_Complementarios.ipynb                # Colapso SVP y Geometría Fractal
-│   └── 📓 Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb # Auditoría DOS y UniqueQMA
+│   ├── 📓 CRIBA_CICLOTOMICA_MODULADA_CCM_EN_Z[i].ipynb                               # Motor ECM y CCM en C++ OpenMP
+│   ├── 📓 Evaluador_Espectral_de_Mersenne.ipynb                                      # Métrica W1 y Saturación de Varianza
+│   ├── 📓 Umbral_de_Parsimonia_y_Confinamiento_en_Retículos_LWE.ipynb                # Colapso SVP y Geometría Fractal
+│   └── 📓 Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb                         # Auditoría DOS y UniqueQMA
 │
 ├── 📂 Images/                                               # Visualizaciones de Alta Resolución
 │   ├── 🔮 Espectro_fractal_gaus.png                         # Mapa de Aniquilación Fractal en Z[i]
