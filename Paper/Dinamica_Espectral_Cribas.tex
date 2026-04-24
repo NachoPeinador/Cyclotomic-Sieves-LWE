@@ -501,39 +501,27 @@ Bajo este encuadre analítico, la Hipótesis de Riemann equivale matemáticament
 % AGRADECIMIENTOS, FINANCIACIÓN, DECLARACIONES Y DISPONIBILIDAD DE DATOS
 % ==============================================================================
 \begin{ack}
-El autor expresa su más profundo agradecimiento a la comunidad de desarrollo de \textbf{GMP} (\textit{GNU Multiple Precision Arithmetic Library}) y su interfaz \texttt{gmpy2}; la capacidad de manejar enteros de escala colosal con latencias sub-lineales ha sido la piedra angular de la viabilidad empírica de este proyecto. Asimismo, se agradece al consorcio \textbf{OpenMP} y a los arquitectos de los compiladores \textbf{GCC}, cuya paralelización nativa a nivel de hardware permitió alcanzar la densidad asintótica requerida sin incurrir en cuellos de botella computacionales. A los ingenieros de \textbf{Google Colab}, por democratizar el acceso a entornos de computación de alto rendimiento y permitir la orquestación de complejos ensambles matemáticos en la nube sin barreras económicas. Finalmente, a la inmensa tradición intelectual que sustenta este trabajo, desde los fundamentos topológicos de Dedekind y la constante hipergeométrica de Catalan hasta las arquitecturas criptográficas contemporáneas diseñadas por Peikert y Regev; su andamiaje teórico ha proporcionado el sustrato sobre el cual debatir y expandir la geometría de números.
+El autor expresa su más profundo agradecimiento a la comunidad de desarrollo de la biblioteca \textbf{GMP} (\textit{GNU Multiple Precision Arithmetic Library}) y su interfaz \texttt{gmpy2}; la capacidad para manejar enteros de escala colosal con latencias sub-lineales ha sido el pilar de la viabilidad empírica de este proyecto. Asimismo, se reconoce al consorcio de \textbf{OpenMP} y a los arquitectos de los compiladores \textbf{GCC}, cuya paralelización nativa a nivel de hardware permitió alcanzar la densidad asintótica requerida sin incurrir en cuellos de botella computacionales. A los ingenieros de \textbf{Google Colab}, por democratizar el acceso a entornos de alta capacidad de cómputo y permitir la orquestación de ensambles matemáticos pesados en la nube sin barreras económicas. Finalmente, a la inmensa tradición intelectual que soporta este trabajo, desde las fundaciones topológicas de Dedekind y la constante hipergeométrica de Catalan, hasta las arquitecturas criptográficas contemporáneas diseñadas por Peikert y Regev; su andamiaje teórico ha proporcionado el sustrato sobre el cual debatir y expandir la geometría de los números.
 \end{ack}
 
 \begin{funding}
-El autor declara que esta investigación se llevó a cabo de forma estrictamente independiente y no ha recibido financiación externa, subvenciones o apoyo financiero de agencias públicas, comerciales o sin fines de lucro.
+El autor declara que esta investigación se ha llevado a cabo de manera estrictamente independiente y no ha recibido financiación externa, becas, ni apoyo económico de agencias del sector público, comercial o entidades sin fines de lucro.
 \end{funding}
 
-\section*{Declaración sobre el Uso de IA Generativa}
-De acuerdo con los principios de transparencia científica y las directrices editoriales contemporáneas, el autor declara que se utilizaron Modelos de Lenguaje de Gran Escala (LLM) como soporte instrumental técnico durante la preparación de este manuscrito para las siguientes tareas específicas:
+\section*{Declaración de uso de Inteligencia Artificial}
+De acuerdo con los principios de máxima transparencia científica y las directrices editoriales contemporáneas, el autor declara que se han utilizado Modelos de Lenguaje Extensos (LLMs) como soporte instrumental técnico durante la preparación de este manuscrito para las siguientes tareas específicas:
 
 \begin{enumerate}
-    \item \textbf{Revisión adversarial simulada (Expert Red Teaming):} Se emplearon modelos avanzados para emular un panel de revisión por pares multidisciplinar (integrando perfiles de teoría analítica de números y criptografía post-cuántica). Esta dialéctica crítica puso a prueba las hipótesis preliminares, motivando la adopción estricta de la métrica de Wasserstein ($W_1$) para la refutación analítica de la conjetura estocástica de Wagstaff.
-    \item \textbf{Traducción técnica de alta precisión:} Los LLM actuaron como interfaces lingüísticas técnicas para asegurar el mapeo preciso de la compleja terminología algebraica y termodinámica cuántica desde las notas de investigación originales en español hacia el rigor estricto y sobrio del inglés requerido para la revisión internacional por pares.
-    \item \textbf{Optimización de la integración algorítmica:} Asistencia en la refactorización arquitectónica para vincular kernels de C++ hiperoptimizados (como el operador de Euler-Lagrange para Mersenne) con la orquestación asíncrona en Python, garantizando la estabilidad de la memoria durante la evaluación de la matriz $\mathbb{Z}/6\mathbb{Z}$.
-    \item \textbf{Refinamiento tipográfico y estructural:} Asistencia en el formato de ecuaciones, estructuración de apéndices visuales y alineación del vocabulario.
+    \item \textbf{Revisión adversaria simulada (\textit{Red Teaming} experto):} Se emplearon modelos avanzados para emular un tribunal de revisión por pares multidisciplinar (integrando perfiles de teoría analítica de números y criptografía post-cuántica). Esta dialéctica crítica sometió a pruebas de estrés las hipótesis preliminares, motivando la adopción estricta de la métrica de Wasserstein ($W_1$) para la refutación analítica de la conjetura estocástica de Wagstaff.
+    \item \textbf{Optimización de integración algorítmica:} Asistencia en la refactorización arquitectónica para vincular núcleos de C++ hiper-optimizados (como el operador de Euler-Lagrange para Mersenne) con la orquestación asíncrona en Python, garantizando la estabilidad de la memoria en la evaluación de la matriz $\mathbb{Z}/6\mathbb{Z}$.
+    \item \textbf{Refinamiento tipográfico y estructural:} Asistencia en la adecuación del formato de ecuaciones, estructuración de anexos visuales y alineación del vocabulario al rigor estricto y sobrio del estándar LaTeX exigido por la EMS Press.
 \end{enumerate}
 
-\textbf{Aclaración crucial de autoría:} Los hallazgos matemáticos fundamentales y los avances teóricos de este trabajo —específicamente, la identificación del primorial $\Pi_2 = \langle 3(1+i) \rangle$ como un atractor de parsimonia en $\mathbb{Z}[i]$, la derivación analítica de la renormalización geométrica basada en la constante de Catalan ($\epsilon_c^{(K)} = \pi\sqrt{2G}$), la demostración del confinamiento espectral asintótico de los primos de Mersenne y la refutación formal de la Hipótesis de Termalización de los Autoestados (ETH) mediante el establecimiento de una dimensión fractal sub-extensiva ($D_2^{(K)} \approx 0.2329$) para vulnerar criptosistemas Ring-LWE— son exclusiva e íntegramente la creación intelectual original del autor. Las herramientas de IA operaron estrictamente como asistentes metodológicos y de compilación, nunca como agentes de descubrimiento o inferencia conceptual.
+\textbf{Aclaración crucial de autoría:} Los hallazgos matemáticos y avances teóricos fundamentales de este trabajo -- específicamente, la identificación del primorial $\Pi_2 = \langle 3(1+i) \rangle$ como atractor de parsimonia en $\mathbb{Z}[i]$, la derivación analítica de la renormalización geométrica basada en la constante de Catalan ($\epsilon_c^{(K)} = \pi\sqrt{2G}$), la demostración del confinamiento espectral asintótico de los primos de Mersenne, y la refutación formal de la Hipótesis de Termalización de los Autoestados (ETH) estableciendo una dimensión fractal sub-extensiva ($D_2^{(K)} \approx 0.2329$) para vulnerar criptosistemas Ring-LWE -- son exclusiva y enteramente creación intelectual original del autor. Las herramientas de IA operaron de manera estricta como asistentes metodológicos y de compilación, nunca como agentes de descubrimiento o inferencia conceptual.
 
 \section*{Disponibilidad de Datos y Código (\textit{Reproducibilidad})}
-En estricto cumplimiento del método científico, el marco empírico y computacional completo se ha liberado en forma de cuadernos interactivos (Jupyter Notebooks). Esto incluye los kernels de C++ de la Criba Ciclotómica Modulada, el Evaluador Espectral de Mersenne con el cálculo del transporte óptimo de Wasserstein y el motor de simulación de fractura estructural en retículos LWE.
-
-Todos los conjuntos de datos, códigos fuente y representaciones visuales están archivados de forma persistente y son accesibles públicamente a través del Identificador de Objeto Digital (DOI) oficial en Zenodo: \\
-\url{https://doi.org/10.5281/zenodo.19706812} \\
-La versión de desarrollo permanece disponible en el repositorio oficial de GitHub del autor: \\
+En estricto cumplimiento con el método científico, el marco empírico y computacional completo ha sido liberado en formato de Cuadernos Interactivos (Jupyter Notebooks). Esto incluye los núcleos C++ de la Criba Ciclotómica Modulada, el Evaluador Espectral de Mersenne con el cálculo del transporte óptimo de Wasserstein, y el motor de simulación de fractura estructural en retículos LWE. Todos los conjuntos de datos, binarios y códigos fuente son deterministas, de acceso público y totalmente reproducibles en el repositorio oficial del autor \\
 \url{https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE}
-
-\section*{Licencias y Propiedad Intelectual}
-Para garantizar la integridad de esta investigación y proteger su naturaleza no comercial, se ha adoptado un \textbf{Modelo de Licencia Dual}:
-\begin{itemize}
-    \item \textbf{Software y Marco Computacional:} Liberado bajo la \textbf{PolyForm Noncommercial License 1.0.0}. Esto permite el uso gratuito para investigación personal y académica, prohibiendo estrictamente la integración o explotación comercial sin autorización previa.
-    \item \textbf{Manuscrito y Material Visual:} Todo el contenido textual y las visualizaciones geométricas están bajo la licencia \textbf{Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)}.
-\end{itemize}
 
 %=============================================================================
 % BLOQUE BIBLIOGRÁFICO (ORDENADO ALFABÉTICAMENTE)
@@ -553,7 +541,7 @@ The Riemann zeros and eigenvalue asymptotics.
 \bibitem{BlumMerwin2026}
 Blum, A. y Merwin, J.~R.:
 Information-Geometric Confinement of Riemann Zeros: Spectral Rigidity from Fisher Quantization on the Bures Manifold.
-Preprint 2026, \url{https://zenodo.org/records/18859602/files/Information_Geometric_Confinement_Riemann_Zeros_Blum_2026.pdf}.
+Preprint 2026, \url{https://zenodo.org/records/18859602}.
 
 \bibitem{Bourne2021}
 Bourne, D.~P. y Cristoferi, R.: 
@@ -605,7 +593,7 @@ General Eigenstate Thermalization via Free Cumulants in Quantum Lattice Systems.
 \bibitem{Peinador2026Hamiltonian}
 Peinador Sala, J.~I.: 
 Explicit Hermitian Hamiltonian for the Riemann Zeros: Arithmetic Quantum Chaos and Multifractality from Z/6Z. 
-\emph{Zenodo} (2026), \doi{10.5281/zenodo.19284511}.
+\emph{Zenodo} (2026), \url{https://zenodo.org/records/19284511}.
 
 \bibitem{Peikert2009}
 Peikert, C.: 
