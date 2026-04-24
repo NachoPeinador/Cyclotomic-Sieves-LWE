@@ -2,7 +2,7 @@
 
 ### Funciones L, la Constante de Catalan y la Ruptura de Ergodicidad en Ring-LWE mediante $\mathbb{Z}[i]$
 
-[![Read in English](https://img.shields.io/badge/Lang-Read%20in%20English-blue?style=flat&logoColor=white&color=0366d6)](https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/README_en.md)
+[![Read in English](https://img.shields.io/badge/Lang-Read%20in%20English-blue?style=flat&logoColor=white&color=0366d6)](https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/README.md)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19706812.svg)](https://doi.org/10.5281/zenodo.19706812)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
