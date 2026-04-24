@@ -1,31 +1,34 @@
 cff-version: 1.2.0
-message: "If you use this Hamiltonian construction, the analytical derivations, or the associated code in your research, please cite it as below."
+message: "If you use this work, the analytical derivations, or the associated code in your research, please cite it as below."
 authors:
   - family-names: "Peinador Sala"
     given-names: "José Ignacio"
     orcid: "https://orcid.org/0009-0008-1822-3452"
-title: "Explicit Hermitian Hamiltonian for the Riemann Zeros: Arithmetic Quantum Chaos and Multifractality from Z/6Z"
+title: "Spectral Dynamics of Sieves in Cyclotomic Extensions: L-functions, Catalan's Constant, and Asymptotic Saturation"
 version: 1.0.0
-doi: 10.5281/zenodo.19284511
-date-released: 2026-03-27
-url: "https://github.com/NachoPeinador/Z6Z-Riemann-Spectrum"
-repository-code: "https://github.com/NachoPeinador/Z6Z-Riemann-Spectrum"
+doi: 10.5281/zenodo.19706812
+date-released: 2026-04-24
+url: "https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE"
+repository-code: "https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE"
 keywords:
-  - riemann hypothesis
-  - riemann zeros
-  - quantum chaos
-  - random matrix theory
-  - multifractality
-  - hermitian hamiltonian
-  - Z/6Z superselection
-  - hilbert-polya conjecture
+  - cyclotomic extensions
+  - L-functions
+  - Catalan's constant
+  - Ring-LWE
+  - Eigenstate Thermalization Hypothesis (ETH)
+  - quantum information theory
+  - lattice cryptanalysis
+  - non-ergodicity
+  - Wigner-Dyson spectrum
+  - Gaussian primorial
 license: "PolyForm Noncommercial 1.0.0"
 abstract: >-
-  This repository provides the computational framework and exact diagonalization
-  code for an explicit, parameter-free Hermitian Hamiltonian whose eigenvalues
-  reconstruct the non-trivial Riemann zeros. It includes the analytical
-  derivations of the thermodynamic resonance coupling (ε = π√2), the spatial
-  decay exponent (ν = 0.75), and the empirical validation of the sub-diffusive
-  fractional Spectral Form Factor (SFF) ramp (γ ≈ 0.609) associated with the
-  Non-Ergodic Extended (NEE) phase of the arithmetic vacuum.
+  This repository contains the computational framework and analytical models for 
+  studying spectral confinement in Ring-LWE lattices. It provides the formal 
+  derivation of the violation of the Eigenstate Thermalization Hypothesis (ETH) 
+  through the identification of the Gaussian primorial Pi_2 as a parsimony 
+  attractor. The work includes the calculation of the geometric renormalization 
+  constant (epsilon = pi*sqrt(2G)) and the empirical confirmation of the 
+  sub-extensive fractal dimension (D2 approx 0.2329) using Inverse Participation 
+  Ratio (IPR) analysis on Z[i].
 license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
