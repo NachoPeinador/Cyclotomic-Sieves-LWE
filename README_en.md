@@ -203,21 +203,21 @@ If this topological framework, the derivations of Catalan's friction, or the cod
 ```text
 .
 ├── 📂 Paper/                                                
-│   ├── 📄 RMI_Criba_v2.pdf                                  # The Submitted Manuscript
-│   └── 📝 RMI_Criba_v2.tex                                  # LaTeX source code
+│   ├── 📄 Spectral_Dynamics_Sieves.pdf                # The Submitted Manuscript
+│   └── 📝 Spectral_Dynamics_Sieves.pdf                # LaTeX source code
 │
-├── 📂 Notebooks/                                            # Computational Lab
-│   ├── 📓 Criba_Ciclotomica_Modulada.ipynb                  # C++ OpenMP CCM & ECM Engine
-│   ├── 📓 Evaluador_Espectral_de_Mersenne.ipynb             # W1 Metric & Variance Saturation
-│   ├── 📓 Experimentos_Complementarios.ipynb                # SVP Collapse & Fractal Geometry
-│   └── 📓 Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb # DOS Audit & UniqueQMA
+├── 📂 Notebook/                                                                       # Computational Lab
+│   ├── 📓 Computational_Evaluation_Modulated_Cyclotomic_Sieve_(MCS)_in_Z[i].ipynb     # C++ OpenMP CCM & ECM Engine
+│   ├── 📓 Spectral_Confinement_of_Mersenne.ipynb                                      # W1 Metric & Variance Saturation
+│   ├── 📓 Parsimony_Threshold_and_Confinement_in_LWE_Lattices.ipynb                   # SVP Collapse & Fractal Geometry
+│   └── 📓 ETH_Violation_and_Entropic_Collapse_in_Ring_LWE.ipynb                       # DOS Audit & UniqueQMA
 │
-├── 📂 Images/                                               # High‑Resolution Visualizations
-│   ├── 🔮 Espectro_fractal_gaus.png                         # Z[i] Fractal Annihilation Map
-│   ├── 📉 Colapso_ring_LWE.png                              # Thermodynamic DOS Collapse
-│   └── 📐 Contraccion_asintonica.png                        # SVP Sub-exponential Contraction
+├── 📂 Images/                                                   # High‑Resolution Visualizations
+│   ├── 🔮 Fractal_Spectrum_of_Gauss.png                         # Z[i] Fractal Annihilation Map
+│   ├── 📉 Collapse_of_the_Density.png                           # Thermodynamic DOS Collapse
+│   └── 📐 Asymptotic_Contraction.png                            # SVP Sub-exponential Contraction
 │
-└── 📜 LICENSE                                               # License (PolyForm / CC BY-NC-SA)
+└── 📜 LICENSE                # License (PolyForm / CC BY-NC-SA)
 ```
 
 </details>
