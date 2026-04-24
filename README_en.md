@@ -4,10 +4,10 @@
 
 [![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/README_es.md)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19284512.svg)](https://doi.org/10.5281/zenodo.19284512)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19706812.svg)](https://doi.org/10.5281/zenodo.19706812)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452)
 [![X](https://img.shields.io/badge/X-%40todos__lumpen-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/todos_lumpen)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Paper/RMI_Criba_v2.pdf)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Paper/Spectral_Dynamics_Sieves.pdf)
 
 ---
 
@@ -116,7 +116,7 @@ To guarantee transparency and absolute reproducibility, the entire empirical fra
 
 ### 1\. Asymptotic Evaluation: The Modulated Cyclotomic Sieve (CCM)
 
-[](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Criba_Ciclotomica_Modulada.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/Computational_Evaluation_Modulated_Cyclotomic_Sieve_(MCS)_in_Z[i].ipynb)
 
 This notebook implements the core algebraic engine defined in **Section 6** of the manuscript.
 
@@ -126,7 +126,7 @@ This notebook implements the core algebraic engine defined in **Section 6** of t
 
 ### 2\. Spectral Evaluator of Mersenne Primes
 
-[](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Evaluador_Espectral_de_Mersenne.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/Spectral_Confinement_of_Mersenne.ipynb)
 
 This notebook validates **Section 5**, demonstrating the asymptotic stabilization of extremal primal sequences.
 
@@ -136,7 +136,7 @@ This notebook validates **Section 5**, demonstrating the asymptotic stabilizatio
 
 ### 3\. Topological Simulations & SVP Contraction
 
-[](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Experimentos_Complementarios.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/Parsimony_Threshold_and_Confinement_in_LWE_Lattices.ipynb)
 
 Visual and geometric proofs supporting **Sections 3 and 8**.
 
@@ -146,7 +146,7 @@ Visual and geometric proofs supporting **Sections 3 and 8**.
 
 ### 4\. Violation of ETH and Entropic Collapse in Ring-LWE
 
-[](https://www.google.com/search?q=https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebooks/Violacion_ETH_y_Colapso_Entropico_en_RingLWE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Cyclotomic-Sieves-LWE/blob/main/Notebook/ETH_Violation_and_Entropic_Collapse_in_Ring_LWE.ipynb)
 
 The ultimate thermodynamic autopsy of post-quantum cryptography.
 
