@@ -239,6 +239,6 @@ Este proyecto demuestra que las fronteras de la criptografía post-cuántica y l
 
 <div align="center">
 
-<b>Last Update:<b> April 2026 | <b>Status:<b> Under Peer Review (EMS Press - Ref: 260424-PeinadorSala) | Built with ⚛️ & 🐍
+<b>Last Update:<b> June 2026 | <b>Status:<b> Under Peer Review Taylor & Francis (Experimental Mathematics - Ref: 268011942) | Built with ⚛️ & 🐍
 
 </div>
